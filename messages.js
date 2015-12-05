@@ -50,6 +50,7 @@ module.exports = {
 		'The time has come...for you to lipsync...FOR YOUR LIFE!',
 		'What have you done?!!! I\'m MELTING!!',
 		'Don\'t you hate failure when there\'s no one else to blame it on',
-		'"Trying is the first step towards failure"-Homer Simpson 1997'
+		'"Trying is the first step towards failure"-Homer Simpson 1997',
+		'Hi Codebar it\'s Lome here'
 	]
 };
